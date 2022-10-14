@@ -1,0 +1,36 @@
+{
+    "data": {
+        "id": 1,
+        "ano": 2016,
+        "text": "base de opinión pericial que conlleva análisis de escena, de evidencia comportamental,descripción relación víctima y victimario, desarrollo probable del antes, durante y después del hecho criminal, la descripción del tipo de violencia empleada y como evidencia demostrativa de la escena y la dinámica probable del hecho criminal",
+        "lugar": "Pozon",
+        "Ciudad": "Cartagena",
+        "victima": "Zenaida Serna Arriega",
+        "message:": "base",
+        "indiciado": "MIGUEL  RODRIGUEZ VILLAMIL",
+        "Expedientes": [
+            {
+                "Caso": "130016001129201601896",
+                "etapa": "JUICIO",
+                "delito": "DESAPARICION FORZADA ART. 165 C.P."
+            },
+            {
+                "Caso": "130016001129201601896",
+                "etapa": "JUICIO",
+                "delito": "DESAPARICION FORZADA ART. 165 C.P."
+            },
+            {
+                "Caso": "130016001129201601896",
+                "etapa": "JUICIO",
+                "delito": "DESAPARICION FORZADA ART. 165 C.P."
+            },
+            {
+                "Caso": "130016001129201601896",
+                "etapa": "JUICIO",
+                "delito": "DESAPARICION FORZADA ART. 165 C.P."
+            }
+        ],
+        "consecutivo": 1896
+    },
+    "component": "indiciado"
+}
